@@ -3,7 +3,7 @@
 ## 👋 About Me
 😊 Hey there! My Name is Benjamin.\
 📌 I live in Germany.\
-💻 I programm Discord Bots, Minecraft Plugins, Websites and much more.
+💻 I mostly programm in java and kotlin
 
 
 ## 📜 Languages and Tools
