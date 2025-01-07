@@ -3,7 +3,7 @@
 ## 👋 About Me
 😊 Hey there! My Name is Benjamin.\
 📌 I live in Germany.\
-💻 I mostly programm in java and kotlin
+💻 I mainly develop in Java and Kotlin
 
 
 ## 📜 Languages and Tools
