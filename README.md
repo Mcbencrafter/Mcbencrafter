@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&color=FFFFFF&center=true&random=false&width=1200&height=75&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Student;%E2%9A%A1Backend;%E2%9D%A4%EF%B8%8F+Java+%2B+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&color=FFFFFF&center=true&random=false&width=1200&height=75&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Student;%E2%9A%A1Backend;%E2%9D%A4%EF%B8%8F+Java+%2B+Go)](https://git.io/typing-svg)
 
 ## 👋 About Me
 😊 Hey there! My Name is Benjamin.\
 📌 I live in Germany.\
-💻 I mainly develop in Java and Kotlin
+💻 I mainly develop in Java and Go
 
 
 ## 📜 Languages and Tools
